@@ -52,4 +52,4 @@ Les diagrammes sont écrits en [Mermaid](https://mermaid.js.org/) : GitHub les a
 
 ## Auteur
 
-Votre nom – 2ème MPI
+oumaima – 2ème MPI
